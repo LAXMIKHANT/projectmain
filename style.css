@@ -1,0 +1,47 @@
+/* .mainboxconventure{
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    justify-content: center;
+    width: 100%;
+    height: 800px;
+}
+.conventur_struc{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: 250px;
+    height: 310px;
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius:200px ;
+    border-bottom-left-radius: 200px;
+    box-shadow: 2px 3px 3px;
+}
+.inputmain{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+           border: 3px solid black;
+           font-size: 30px;
+    height: 50px;
+    width: 140px;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+.num{
+    margin: 0;
+}
+.buttonbox{
+     border: 2px solid black;
+    height: 50px;
+    width: 90px;
+    border-radius: 20px;
+
+}
+.buttonbox:hover{
+      width: 95px;
+} */

@@ -1,0 +1,17 @@
+.navbar{
+    display: flex;
+    align-items: center;
+      justify-content: center;
+    height: 500px;
+    width: 100%;
+}
+.mainone{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    width: 250px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
