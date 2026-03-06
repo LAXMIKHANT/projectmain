@@ -1,0 +1,61 @@
+
+     [   {
+     "name":"ragive",
+     "age": 21,
+     "marks":79,
+
+     "addres":{
+        "city":"bhtakal",
+        "homeadds":"k.b road bhatkal",
+        "code":581320
+     },
+
+      "hobby":["gaming","playing","coding"]
+     
+    },
+
+        {
+     "name":"ragive",
+     "age": 21,
+     "marks":79,
+
+     "addres":{
+        "city":"bhtakal",
+        "homeadds":"k.b road bhatkal",
+        "code":581320
+     },
+
+      "hobby":["gaming","playing","coding"]
+     
+    },
+
+        {
+     "name":"ragive",
+     "age": 21,
+     "marks":79,
+
+     "addres":{
+        "city":"bhtakal",
+        "homeadds":"k.b road bhatkal",
+        "code":581320
+     },
+
+      "hobby":["gaming","playing","coding"]
+     
+    },
+
+        {
+     "name":"ragive",
+     "age": 21,
+     "marks":79,
+
+     "addres":{
+        "city":"bhtakal",
+        "homeadds":"k.b road bhatkal",
+        "code":581320
+     },
+
+      "hobby":["gaming","playing","coding"]
+     
+    }
+    ]
